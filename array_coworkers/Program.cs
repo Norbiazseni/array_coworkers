@@ -22,7 +22,9 @@ namespace array_coworkers
             {
                osszeg +=szamok[i];
             }
-
+            Console.WriteLine($"A számok összege: {osszeg}");
+            Console.WriteLine("Nyomjad nekiiii");
+            Console.ReadKey();
         }
     }
 }
