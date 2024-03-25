@@ -14,6 +14,9 @@ namespace array_coworkers
             //Adrián: tömb adatainak összeadása
             //Adrián
             //x: tömb eredmények kiírása
+
+            int[] szamok = { 10, 34, 69, 96, 42, 33, 66, 110, 321, 1 };
+
         }
     }
 }
