@@ -17,6 +17,12 @@ namespace array_coworkers
 
             int[] szamok = { 10, 34, 69, 96, 42, 33, 66, 110, 321, 1 };
 
+            int osszeg = 0;
+            for (int i = 0; i < szamok.Length; i++)
+            {
+               osszeg +=szamok[i];
+            }
+
         }
     }
 }
