@@ -12,6 +12,7 @@ namespace array_coworkers
         {
             //Norbi: tömb létrehozása
             //Adrián: tömb adatainak összeadása
+            //Adrián
             //x: tömb eredmények kiírása
         }
     }
